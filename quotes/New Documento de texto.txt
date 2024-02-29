@@ -1,0 +1,9 @@
+Comunicaciones
+- Slack
+- Whats Web
+- Correo
+- Telefono
+- Tawk.to
+
+
+- Imagen default dummy poner icono de empresa
